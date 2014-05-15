@@ -1,4 +1,10 @@
-//import java.awt.*;
+/*
+ * Author: Richard A. Buttars
+ * This file contains the entry point of the server (the main() function).
+ * The main intent of this code is to provide a public example of code that
+ * I have written.
+ */
+
 
 public class chat_server {
 
